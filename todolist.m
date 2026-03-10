@@ -4,10 +4,10 @@
 - **Company Name:** Meubles et accessoires en bois
 - **Directory:** meubles_et_accessoires_en_bois
 - **Address/Contact:** 
-  - Angre Djibi, Abidjan, C�te d'Ivoire, 225
+  - Angre Djibi, Abidjan, Céte d'Ivoire, 225
   - 
-  - Abidjan, C�te d'Ivoire
-  - Coordonn�es
+  - Abidjan, Céte d'Ivoire
+  - Coordonnées
   - 
   - Meubles et accessoires en boi
 - **Description:** https://www.facebook.com/meubles.abidjan

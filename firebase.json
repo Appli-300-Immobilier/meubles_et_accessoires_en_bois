@@ -1,0 +1,17 @@
+{
+  "hosting": {
+    "site": "meubles-et-accessoires-en-bois",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}
